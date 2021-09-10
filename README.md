@@ -16,13 +16,18 @@ A fitness function which uses a generalised vehicle simulation, determines the l
 
 Random generated racing lines with 50 generations and population of 500:
 
+```
 Best time:  311.2580106466346
 Average Best Time:  314.28778991582976
 Average Worst Time:  326.6378874060011
 Average Time:  321.0960511052866
+```
 
-Racing line optimisation with 50 generations and population of 500
+Racing line optimisation with 50 generations and population of 500:
+
+```
 Best time:  309.00084374047975
 Average Best Time  309.97085054308224
 Average Worst Time  321.9977028304318
 Average Time  314.9527337410784
+```
